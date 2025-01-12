@@ -1,5 +1,5 @@
 # 💫 About Me:
-I'm currently learning cyber security.
+making mistakes, learning  new things
 
 
 # 💻 Tech Stack:
